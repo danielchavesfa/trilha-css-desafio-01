@@ -3,4 +3,5 @@
   --color-p1: #31A8DD;
   --font-gradient: #33A8DB, #1472B7;
   --bg-color: #040508;
+  --bg-gradient: rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6);
 }
